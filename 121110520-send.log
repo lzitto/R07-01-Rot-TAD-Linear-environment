@@ -7,3 +7,33 @@
   <level>FINE</level>
   <message>File 121110520-DAVID LEONAM SILVA HOLANDA.zip was received. It was sent by DAVID LEONAM SILVA HOLANDA from IP 150.165.42.195 at 30-07-2025 09*05*18</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-03T09:02:10.172-0300</date>
+  <logger>DAVID LEONAM SILVA HOLANDA</logger>
+  <level>FINE</level>
+  <message>File 121110520-DAVID LEONAM SILVA HOLANDA.zip was received. It was sent by DAVID LEONAM SILVA HOLANDA from IP 10.220.0.12 at 03-08-2025 09*02*10</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-03T09:33:26.653-0300</date>
+  <logger>DAVID LEONAM SILVA HOLANDA</logger>
+  <level>FINE</level>
+  <message>File 121110520-DAVID LEONAM SILVA HOLANDA.zip was received. It was sent by DAVID LEONAM SILVA HOLANDA from IP 10.220.0.12 at 03-08-2025 09*33*26</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-08-03T09:53:31.441-0300</date>
+  <logger>DAVID LEONAM SILVA HOLANDA</logger>
+  <level>FINE</level>
+  <message>File 121110520-DAVID LEONAM SILVA HOLANDA.zip was received. It was sent by DAVID LEONAM SILVA HOLANDA from IP 10.220.0.12 at 03-08-2025 09*53*31</message>
+</record>

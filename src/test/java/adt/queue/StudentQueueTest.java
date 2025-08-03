@@ -29,12 +29,15 @@ public class StudentQueueTest {
 		queue2.enqueue(2);
 
 	}
+	
 
 	private void getImplementations() {
 		// TODO O aluno deve ajustar aqui para instanciar sua implementação
-		queue1 = null;
-		queue2 = null;
-		queue3 = null;
+		    queue1 = new QueueImpl<>(4); // por exemplo, tamanho 4
+    		queue2 = new QueueImpl<>(2); // tamanho 2 (pra testar cheia)
+    		queue3 = new QueueImpl<>(3); // vazia inicialmente
+			
+			
 	}
 
 	// MÉTODOS DE TESTE
